@@ -8,7 +8,7 @@
 
 ## Overview
 
-Oh no! One people person have truoble of remebering his <object here> and he need something to keep track of his <object here>.  Let's help this people person out (and practive our associations) by building some associations and displaying the data.
+Oh no! One people person have truoble of remebering this person <object here> and he need something to keep track of this person <object here>.  Let's help this people person out (and practive our associations) by building some associations and displaying the data.
 
 ![greys-anatomy](https://media.giphy.com/media/6SaVutI40pCKc/giphy.gif)
 
