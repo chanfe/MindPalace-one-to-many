@@ -1,29 +1,3 @@
-<<<<<<< HEAD
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
 # MindPalace-one-to-many
 
 ## Objectives
@@ -67,4 +41,3 @@ With this website, a user should be:
 * Able to create a new memory with an association to a person (and make sure that their name and type are not blank)
 
 Make the necessary edits and alterations to make the website function as expected.
->>>>>>> edafbb5627d6a215e1a78722f5c80b2429c22068
