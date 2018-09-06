@@ -20,7 +20,7 @@ You'll need to create all of the migrations, models, routes, controllers, and vi
 
 ***NOTE***: As with much of our Rails curriculum, remember to always use the `--no-test-framework` flag when you generate models, controllers, etc. That way, the Rails generators will not create additional tests on top of the test suite that already comes with the lesson. E.g., `rails g model User username:string email:string --no-test-framework`.
 
-Every 'Person' should be created with a 'name', 'age' and 'weight' and every 'Memory' should be created with a 'object' and a 'description'. And since Flatiron is all about love, when a Memory is created, it needs to be created with a Person. After all, a memory should never be without an owner!
+Every `Person` should be created with a `name`, `age` and `weight` and every `Memory` should be created with a `object` and a `description`. And since Flatiron is all about love, when a Memory is created, it needs to be created with a Person. After all, a memory should never be without an owner!
 
 With this website, a user should be:
 
